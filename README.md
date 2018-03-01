@@ -1,4 +1,2 @@
-##Paper1
-###Author
-####Class of math
-
+Paper1
+Author
